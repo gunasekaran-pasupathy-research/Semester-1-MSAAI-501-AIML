@@ -17,3 +17,17 @@ ipykernel
 
 # Convenience
 tqdm
+
+# LLM / agents (Module 1 — Module_1_AI_Agent.ipynb)
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+wikipedia
+
+# LlamaIndex + Gemini (Module 1.2 — Module_1_2_Fraud_Triage_Agent.ipynb)
+llama-index
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+python-dotenv  # loads GOOGLE_API_KEY from a local .env file
+
