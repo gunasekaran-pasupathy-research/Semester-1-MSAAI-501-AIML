@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Jupyter
+jupyterlab
+notebook
+ipykernel
+
+# Convenience
+tqdm
