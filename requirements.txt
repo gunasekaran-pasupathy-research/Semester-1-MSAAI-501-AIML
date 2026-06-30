@@ -20,10 +20,8 @@ tqdm
 
 # LLM / agents (Module 1 — Module_1_AI_Agent.ipynb)
 langchain
-langchain-community
 langchain-google-genai
-google-generativeai
-wikipedia
+requests  # used by the notebook's custom Wikipedia tool
 
 # LlamaIndex + Gemini (Module 1.2 — Module_1_2_Fraud_Triage_Agent.ipynb)
 llama-index
