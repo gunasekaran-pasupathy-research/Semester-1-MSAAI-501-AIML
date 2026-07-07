@@ -10,6 +10,12 @@ seaborn
 # Machine learning
 scikit-learn
 
+#maps
+osmnx
+
+# graphs
+networkx
+
 # Jupyter
 jupyterlab
 notebook
